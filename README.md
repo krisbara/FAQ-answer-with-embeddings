@@ -31,8 +31,9 @@ To install and set up the project, follow these steps:
 This will output a file (e.g., faqs_emb.csv) containing the embeddings for your FAQs.
 ## Finding the Most Appropriate Response
  **Run the Main Script**:
+ 
 Use the main.py script to input a question and receive the most relevant FAQ and answer based on embedding distance:
-    ```bash
+
     python main.py
 After running the script, input your question, and the script will output the corresponding FAQ and its answer.
 ## Example
